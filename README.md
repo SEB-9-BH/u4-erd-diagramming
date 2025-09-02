@@ -1,5 +1,3 @@
-<img width="100%" src="https://i.imgur.com/CYx9Es5.png" />
-
 # Entity-Relationship Diagramming
 
 An ERD is a visual representation of the data structure in a database. It helps model how entities (objects) relate to each other. 
